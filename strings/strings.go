@@ -1,7 +1,7 @@
 package strings
 func internalFunction() {
 // In Go, a name is exported (visible outside the package) if it
-begins
+
 // with a capital letter
 }
 // Must begin with a capital letter in order to be exported
